@@ -1,0 +1,1 @@
+console.log("Hello World! My legacy starts here!")
