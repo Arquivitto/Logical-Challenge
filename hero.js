@@ -30,23 +30,23 @@ function heroClass(levelPoints){
 
   if (levelPoints <= 1000){
     rankHero = "Ferro";
-    console.log(rankHero + "! Continue trabalho duro pra elevar seu rank!");
+    console.log(rankHero + "! Continue trabalhando duro pra elevar seu rank!");
   } 
   else if (levelPoints >= 1001 && levelPoints <= 2000){
     rankHero = "Bronze";
-    console.log(rankHero + "! Continue trabalho duro pra elevar seu rank!");
+    console.log(rankHero + "! Continue trabalhando duro pra elevar seu rank!");
   } 
   else if (levelPoints >= 2001 && levelPoints <= 5000){
     rankHero = "Prata";
-    console.log(rankHero + "! Continue trabalho duro pra elevar seu rank!");
+    console.log(rankHero + "! Continue trabalhando duro pra elevar seu rank!");
   } 
   else if (levelPoints >= 5001 && levelPoints <= 7000){
     rankHero = "Ouro";
-    console.log(rankHero + "! Continue trabalho duro pra elevar seu rank!");
+    console.log(rankHero + "! Continue trabalhando duro pra elevar seu rank!");
   } 
   else if (levelPoints >= 7001 && levelPoints <= 8000){
     rankHero = "Platina";
-    console.log(rankHero + "! Continue trabalho duro pra elevar seu rank!");
+    console.log(rankHero + "! Continue trabalhando duro pra elevar seu rank!");
   } 
   else if (levelPoints >= 8001 && levelPoints <= 9000){
     rankHero = "Ascendente";
